@@ -1,0 +1,14 @@
+C:\Users\YangS\Documents\WorkspaceEE\customer-relationship-manager\src\main\java\com\customer\spring\config\DemoSecurityConfig.java
+C:\Users\YangS\Documents\WorkspaceEE\customer-relationship-manager\src\main\java\com\customer\spring\controller\RegistrationController.java
+C:\Users\YangS\Documents\WorkspaceEE\customer-relationship-manager\src\main\java\com\customer\spring\dao\CustomerDAOImpl.java
+C:\Users\YangS\Documents\WorkspaceEE\customer-relationship-manager\src\main\java\com\customer\spring\entity\CrmUser.java
+C:\Users\YangS\Documents\WorkspaceEE\customer-relationship-manager\src\main\java\com\customer\spring\config\MySpringMvcDispatcherServletInitializer.java
+C:\Users\YangS\Documents\WorkspaceEE\customer-relationship-manager\src\main\java\com\customer\spring\config\SecurityWebApplicationInitializer.java
+C:\Users\YangS\Documents\WorkspaceEE\customer-relationship-manager\src\main\java\com\customer\spring\entity\Customer.java
+C:\Users\YangS\Documents\WorkspaceEE\customer-relationship-manager\src\main\java\com\customer\spring\aspect\CRMLoggingAspect.java
+C:\Users\YangS\Documents\WorkspaceEE\customer-relationship-manager\src\main\java\com\customer\spring\controller\LoginController.java
+C:\Users\YangS\Documents\WorkspaceEE\customer-relationship-manager\src\main\java\com\customer\spring\dao\CustomerDAO.java
+C:\Users\YangS\Documents\WorkspaceEE\customer-relationship-manager\src\main\java\com\customer\spring\service\CustomerService.java
+C:\Users\YangS\Documents\WorkspaceEE\customer-relationship-manager\src\main\java\com\customer\spring\service\CustomerServiceImpl.java
+C:\Users\YangS\Documents\WorkspaceEE\customer-relationship-manager\src\main\java\com\customer\spring\config\DemoAppConfig.java
+C:\Users\YangS\Documents\WorkspaceEE\customer-relationship-manager\src\main\java\com\customer\spring\controller\CustomerController.java
